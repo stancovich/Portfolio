@@ -1,0 +1,16 @@
+D:\Repo\Inventory\VirualOverrideDemo\VirualOverrideDemo\bin\Debug\net5.0\VirualOverrideDemo.exe
+D:\Repo\Inventory\VirualOverrideDemo\VirualOverrideDemo\bin\Debug\net5.0\VirualOverrideDemo.deps.json
+D:\Repo\Inventory\VirualOverrideDemo\VirualOverrideDemo\bin\Debug\net5.0\VirualOverrideDemo.runtimeconfig.json
+D:\Repo\Inventory\VirualOverrideDemo\VirualOverrideDemo\bin\Debug\net5.0\VirualOverrideDemo.runtimeconfig.dev.json
+D:\Repo\Inventory\VirualOverrideDemo\VirualOverrideDemo\bin\Debug\net5.0\VirualOverrideDemo.dll
+D:\Repo\Inventory\VirualOverrideDemo\VirualOverrideDemo\bin\Debug\net5.0\VirualOverrideDemo.pdb
+D:\Repo\Inventory\VirualOverrideDemo\VirualOverrideDemo\obj\Debug\net5.0\VirualOverrideDemo.csproj.AssemblyReference.cache
+D:\Repo\Inventory\VirualOverrideDemo\VirualOverrideDemo\obj\Debug\net5.0\VirualOverrideDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo\Inventory\VirualOverrideDemo\VirualOverrideDemo\obj\Debug\net5.0\VirualOverrideDemo.AssemblyInfoInputs.cache
+D:\Repo\Inventory\VirualOverrideDemo\VirualOverrideDemo\obj\Debug\net5.0\VirualOverrideDemo.AssemblyInfo.cs
+D:\Repo\Inventory\VirualOverrideDemo\VirualOverrideDemo\obj\Debug\net5.0\VirualOverrideDemo.csproj.CoreCompileInputs.cache
+D:\Repo\Inventory\VirualOverrideDemo\VirualOverrideDemo\obj\Debug\net5.0\VirualOverrideDemo.dll
+D:\Repo\Inventory\VirualOverrideDemo\VirualOverrideDemo\obj\Debug\net5.0\refint\VirualOverrideDemo.dll
+D:\Repo\Inventory\VirualOverrideDemo\VirualOverrideDemo\obj\Debug\net5.0\VirualOverrideDemo.pdb
+D:\Repo\Inventory\VirualOverrideDemo\VirualOverrideDemo\obj\Debug\net5.0\VirualOverrideDemo.genruntimeconfig.cache
+D:\Repo\Inventory\VirualOverrideDemo\VirualOverrideDemo\obj\Debug\net5.0\ref\VirualOverrideDemo.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8e471e45-6da5-4348-a476-e823b7fda349": {
+      "ProjectGuid": "8e471e45-6da5-4348-a476-e823b7fda349",
+      "DisplayName": "itemInventory",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

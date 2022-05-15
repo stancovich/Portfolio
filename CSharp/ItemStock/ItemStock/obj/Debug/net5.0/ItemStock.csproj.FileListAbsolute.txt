@@ -1,0 +1,16 @@
+D:\Repo\Inventory\ItemStock\ItemStock\bin\Debug\net5.0\ItemStock.exe
+D:\Repo\Inventory\ItemStock\ItemStock\bin\Debug\net5.0\ItemStock.deps.json
+D:\Repo\Inventory\ItemStock\ItemStock\bin\Debug\net5.0\ItemStock.runtimeconfig.json
+D:\Repo\Inventory\ItemStock\ItemStock\bin\Debug\net5.0\ItemStock.runtimeconfig.dev.json
+D:\Repo\Inventory\ItemStock\ItemStock\bin\Debug\net5.0\ItemStock.dll
+D:\Repo\Inventory\ItemStock\ItemStock\bin\Debug\net5.0\ItemStock.pdb
+D:\Repo\Inventory\ItemStock\ItemStock\obj\Debug\net5.0\ItemStock.csproj.AssemblyReference.cache
+D:\Repo\Inventory\ItemStock\ItemStock\obj\Debug\net5.0\ItemStock.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo\Inventory\ItemStock\ItemStock\obj\Debug\net5.0\ItemStock.AssemblyInfoInputs.cache
+D:\Repo\Inventory\ItemStock\ItemStock\obj\Debug\net5.0\ItemStock.AssemblyInfo.cs
+D:\Repo\Inventory\ItemStock\ItemStock\obj\Debug\net5.0\ItemStock.csproj.CoreCompileInputs.cache
+D:\Repo\Inventory\ItemStock\ItemStock\obj\Debug\net5.0\ItemStock.dll
+D:\Repo\Inventory\ItemStock\ItemStock\obj\Debug\net5.0\refint\ItemStock.dll
+D:\Repo\Inventory\ItemStock\ItemStock\obj\Debug\net5.0\ItemStock.pdb
+D:\Repo\Inventory\ItemStock\ItemStock\obj\Debug\net5.0\ItemStock.genruntimeconfig.cache
+D:\Repo\Inventory\ItemStock\ItemStock\obj\Debug\net5.0\ref\ItemStock.dll

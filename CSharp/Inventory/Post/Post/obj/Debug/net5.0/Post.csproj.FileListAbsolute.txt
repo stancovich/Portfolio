@@ -1,0 +1,16 @@
+D:\Repo\Inventory\Post\Post\bin\Debug\net5.0\Post.exe
+D:\Repo\Inventory\Post\Post\bin\Debug\net5.0\Post.deps.json
+D:\Repo\Inventory\Post\Post\bin\Debug\net5.0\Post.runtimeconfig.json
+D:\Repo\Inventory\Post\Post\bin\Debug\net5.0\Post.runtimeconfig.dev.json
+D:\Repo\Inventory\Post\Post\bin\Debug\net5.0\Post.dll
+D:\Repo\Inventory\Post\Post\bin\Debug\net5.0\Post.pdb
+D:\Repo\Inventory\Post\Post\obj\Debug\net5.0\Post.csproj.AssemblyReference.cache
+D:\Repo\Inventory\Post\Post\obj\Debug\net5.0\Post.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo\Inventory\Post\Post\obj\Debug\net5.0\Post.AssemblyInfoInputs.cache
+D:\Repo\Inventory\Post\Post\obj\Debug\net5.0\Post.AssemblyInfo.cs
+D:\Repo\Inventory\Post\Post\obj\Debug\net5.0\Post.csproj.CoreCompileInputs.cache
+D:\Repo\Inventory\Post\Post\obj\Debug\net5.0\Post.dll
+D:\Repo\Inventory\Post\Post\obj\Debug\net5.0\refint\Post.dll
+D:\Repo\Inventory\Post\Post\obj\Debug\net5.0\Post.pdb
+D:\Repo\Inventory\Post\Post\obj\Debug\net5.0\Post.genruntimeconfig.cache
+D:\Repo\Inventory\Post\Post\obj\Debug\net5.0\ref\Post.dll
